@@ -1,0 +1,42 @@
+{
+  "name": "beings_interface_next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build &&  next export -o webDist/",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@fontsource/poppins": "^4.5.8",
+    "@thirdweb-dev/react": "^2.6.3",
+    "@thirdweb-dev/sdk": "^2.3.36",
+    "bcryptjs": "^2.4.3",
+    "ethers": "^5.6.9",
+    "graphql": "^16.5.0",
+    "next": "12.2.3",
+    "randomize-array": "^1.2.0",
+    "react": "18.2.0",
+    "react-content-shimmer": "^2.2.6",
+    "react-cool-img": "^1.2.12",
+    "react-dom": "18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-jazzicon": "^1.0.4",
+    "react-responsive": "^9.0.0-beta.10",
+    "react-reveal": "^1.2.2",
+    "react-switch": "^7.0.0",
+    "react-toastify": "^9.0.7",
+    "sha1": "^1.1.1",
+    "swiper": "^8.3.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.3",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}

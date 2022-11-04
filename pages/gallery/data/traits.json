@@ -1,0 +1,1832 @@
+[
+    {
+        "trait_type": "BACKGROUND",
+        "values": [
+            {
+                "name": "PURPLE",
+                "cant": 390,
+                "rarityScore": 14.397435897435896
+            },
+            {
+                "name": "DARK PINK",
+                "cant": 774,
+                "rarityScore": 7.25452196382429
+            },
+            {
+                "name": "DARK PINK STAR",
+                "cant": 471,
+                "rarityScore": 11.92144373673036
+            },
+            {
+                "name": "GOLD",
+                "cant": 9,
+                "rarityScore": 623.8888888888889
+            },
+            {
+                "name": "VIBRANT BLUE",
+                "cant": 766,
+                "rarityScore": 7.330287206266318
+            },
+            {
+                "name": "VIOLET",
+                "cant": 382,
+                "rarityScore": 14.698952879581151
+            },
+            {
+                "name": "DARK BLUE",
+                "cant": 367,
+                "rarityScore": 15.299727520435967
+            },
+            {
+                "name": "GREEN",
+                "cant": 386,
+                "rarityScore": 14.546632124352332
+            },
+            {
+                "name": "GRADIENT 2",
+                "cant": 56,
+                "rarityScore": 100.26785714285714
+            },
+            {
+                "name": "GRADIENT 5",
+                "cant": 52,
+                "rarityScore": 107.98076923076924
+            },
+            {
+                "name": "GRADIENT 6",
+                "cant": 54,
+                "rarityScore": 103.98148148148148
+            },
+            {
+                "name": "YELLOW STAR",
+                "cant": 494,
+                "rarityScore": 11.366396761133604
+            },
+            {
+                "name": "ORANGE STAR",
+                "cant": 485,
+                "rarityScore": 11.577319587628866
+            },
+            {
+                "name": "GRADIENT 1",
+                "cant": 56,
+                "rarityScore": 100.26785714285714
+            },
+            {
+                "name": "VIOLET STAR",
+                "cant": 98,
+                "rarityScore": 57.29591836734694
+            },
+            {
+                "name": "PLATINUM",
+                "cant": 9,
+                "rarityScore": 623.8888888888889
+            },
+            {
+                "name": "HOLOGRAPHIC BUBBLEGUM",
+                "cant": 28,
+                "rarityScore": 200.53571428571428
+            },
+            {
+                "name": "DARK BLUE STAR",
+                "cant": 200,
+                "rarityScore": 28.075000000000003
+            },
+            {
+                "name": "GREEN STAR",
+                "cant": 90,
+                "rarityScore": 62.38888888888889
+            },
+            {
+                "name": "HOLOGRAPHIC 2",
+                "cant": 39,
+                "rarityScore": 143.97435897435898
+            },
+            {
+                "name": "GRADIENT 3",
+                "cant": 59,
+                "rarityScore": 95.16949152542372
+            },
+            {
+                "name": "PURPLE STAR",
+                "cant": 104,
+                "rarityScore": 53.99038461538462
+            },
+            {
+                "name": "HOLOGRAPHIC 1",
+                "cant": 34,
+                "rarityScore": 165.1470588235294
+            },
+            {
+                "name": "GRADIENT 4",
+                "cant": 50,
+                "rarityScore": 112.30000000000001
+            },
+            {
+                "name": "GRADIENT 7",
+                "cant": 56,
+                "rarityScore": 100.26785714285714
+            },
+            {
+                "name": "VIBRANT BLUE STAR",
+                "cant": 105,
+                "rarityScore": 53.476190476190474
+            },
+            {
+                "name": "BUBBLEGUM STARS",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "HEAD",
+        "values": [
+            {
+                "name": "ORANGE HEAD",
+                "cant": 549,
+                "rarityScore": 10.22768670309654
+            },
+            {
+                "name": "PALE HEAD",
+                "cant": 550,
+                "rarityScore": 10.209090909090909
+            },
+            {
+                "name": "GREEN HEAD",
+                "cant": 582,
+                "rarityScore": 9.647766323024054
+            },
+            {
+                "name": "YELLOW HEAD",
+                "cant": 538,
+                "rarityScore": 10.436802973977695
+            },
+            {
+                "name": "PINK HEAD",
+                "cant": 564,
+                "rarityScore": 9.955673758865249
+            },
+            {
+                "name": "DARK HEAD",
+                "cant": 537,
+                "rarityScore": 10.456238361266294
+            },
+            {
+                "name": "BLUE HEAD",
+                "cant": 535,
+                "rarityScore": 10.495327102803738
+            },
+            {
+                "name": "BROWN HEAD",
+                "cant": 550,
+                "rarityScore": 10.209090909090909
+            },
+            {
+                "name": "KULLY HEAD",
+                "cant": 14,
+                "rarityScore": 401.07142857142856
+            },
+            {
+                "name": "KULLY ICESCREAM HEAD",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "SPACE HEAD 2",
+                "cant": 572,
+                "rarityScore": 9.816433566433567
+            },
+            {
+                "name": "SPACE HEAD 1",
+                "cant": 563,
+                "rarityScore": 9.97335701598579
+            },
+            {
+                "name": "BEEBOO HEAD",
+                "cant": 25,
+                "rarityScore": 224.60000000000002
+            },
+            {
+                "name": "B BOT HEAD",
+                "cant": 24,
+                "rarityScore": 233.95833333333334
+            },
+            {
+                "name": "B-BOT HEAD",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "KULLY CRWON HEAD",
+                "cant": 6,
+                "rarityScore": 935.8333333333334
+            }
+        ]
+    },
+    {
+        "trait_type": "HAIR",
+        "values": [
+            {
+                "name": "PINK BUNS UP",
+                "cant": 73,
+                "rarityScore": 76.91780821917808
+            },
+            {
+                "name": "VIOLET LONG WAVY",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "PINK SPIKY",
+                "cant": 52,
+                "rarityScore": 107.98076923076924
+            },
+            {
+                "name": "ORANGE REGULAR CUT",
+                "cant": 63,
+                "rarityScore": 89.12698412698413
+            },
+            {
+                "name": "ORANGE AFRO",
+                "cant": 69,
+                "rarityScore": 81.37681159420289
+            },
+            {
+                "name": "BLUE MUSHROOM",
+                "cant": 69,
+                "rarityScore": 81.37681159420289
+            },
+            {
+                "name": "PURPLE LONG WAVY",
+                "cant": 68,
+                "rarityScore": 82.5735294117647
+            },
+            {
+                "name": "VIOLET REGULAR CUT",
+                "cant": 68,
+                "rarityScore": 82.5735294117647
+            },
+            {
+                "name": "PURPLE MUSHROOM",
+                "cant": 63,
+                "rarityScore": 89.12698412698413
+            },
+            {
+                "name": "VIOLET MUSHROOM",
+                "cant": 69,
+                "rarityScore": 81.37681159420289
+            },
+            {
+                "name": "ORANGE MUSHROOM",
+                "cant": 76,
+                "rarityScore": 73.88157894736842
+            },
+            {
+                "name": "HAT",
+                "cant": 9,
+                "rarityScore": 623.8888888888889
+            },
+            {
+                "name": "GREEN LONG WAVY",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "PINK REGULAR CUT",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "ICECREAM ACCIDENT",
+                "cant": 15,
+                "rarityScore": 374.3333333333333
+            },
+            {
+                "name": "WHITE FISHERMAN CAP",
+                "cant": 12,
+                "rarityScore": 467.9166666666667
+            },
+            {
+                "name": "VIOLET AFRO",
+                "cant": 73,
+                "rarityScore": 76.91780821917808
+            },
+            {
+                "name": "BLUE SPIKY",
+                "cant": 64,
+                "rarityScore": 87.734375
+            },
+            {
+                "name": "ORANGE SPIKY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "ORANGE BUNS UP",
+                "cant": 75,
+                "rarityScore": 74.86666666666667
+            },
+            {
+                "name": "PURPLE TOUPE",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "PURPLE LONG HAIR",
+                "cant": 65,
+                "rarityScore": 86.38461538461539
+            },
+            {
+                "name": "ORANGE PONYTAIL",
+                "cant": 50,
+                "rarityScore": 112.30000000000001
+            },
+            {
+                "name": "VIOLET WAVY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "GREEN BUNS UP",
+                "cant": 76,
+                "rarityScore": 73.88157894736842
+            },
+            {
+                "name": "YELLOW MUSHROOM",
+                "cant": 53,
+                "rarityScore": 105.9433962264151
+            },
+            {
+                "name": "BLUE SNOW HAT",
+                "cant": 10,
+                "rarityScore": 561.5
+            },
+            {
+                "name": "YELLOW SNOW HAT",
+                "cant": 10,
+                "rarityScore": 561.5
+            },
+            {
+                "name": "TOUPE CROWN",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "GREEN MUSHROOM",
+                "cant": 76,
+                "rarityScore": 73.88157894736842
+            },
+            {
+                "name": "YELLOW WAVY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "DISCO AFRO",
+                "cant": 20,
+                "rarityScore": 280.75
+            },
+            {
+                "name": "BALD",
+                "cant": 74,
+                "rarityScore": 75.87837837837839
+            },
+            {
+                "name": "VIOLET MOHAWK",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "BLUE WAVY",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "GREEN WAVY",
+                "cant": 77,
+                "rarityScore": 72.92207792207792
+            },
+            {
+                "name": "PINK MUSHROOM",
+                "cant": 68,
+                "rarityScore": 82.5735294117647
+            },
+            {
+                "name": "VIOLET TOUPE",
+                "cant": 67,
+                "rarityScore": 83.80597014925372
+            },
+            {
+                "name": "GREEN REGULAR CUT",
+                "cant": 64,
+                "rarityScore": 87.734375
+            },
+            {
+                "name": "PINK PONYTAIL",
+                "cant": 66,
+                "rarityScore": 85.07575757575758
+            },
+            {
+                "name": "GREEN SPIKY",
+                "cant": 76,
+                "rarityScore": 73.88157894736842
+            },
+            {
+                "name": "GREEN AFRO",
+                "cant": 63,
+                "rarityScore": 89.12698412698413
+            },
+            {
+                "name": "PINK LONG HAIR",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "BLUE LONG WAVY",
+                "cant": 62,
+                "rarityScore": 90.56451612903226
+            },
+            {
+                "name": "BLUE PONYTAIL",
+                "cant": 64,
+                "rarityScore": 87.734375
+            },
+            {
+                "name": "PURPLE AFRO",
+                "cant": 59,
+                "rarityScore": 95.16949152542372
+            },
+            {
+                "name": "GREEN TOUPE",
+                "cant": 73,
+                "rarityScore": 76.91780821917808
+            },
+            {
+                "name": "WIZARD",
+                "cant": 6,
+                "rarityScore": 935.8333333333334
+            },
+            {
+                "name": "EVIL TOUPE",
+                "cant": 7,
+                "rarityScore": 802.1428571428571
+            },
+            {
+                "name": "GREEN LONG HAIR",
+                "cant": 53,
+                "rarityScore": 105.9433962264151
+            },
+            {
+                "name": "YELLOW LONG HAIR",
+                "cant": 74,
+                "rarityScore": 75.87837837837839
+            },
+            {
+                "name": "PURPLE WAVY",
+                "cant": 62,
+                "rarityScore": 90.56451612903226
+            },
+            {
+                "name": "ORANGE MOHAWK",
+                "cant": 67,
+                "rarityScore": 83.80597014925372
+            },
+            {
+                "name": "PURPLE MOHAWK",
+                "cant": 68,
+                "rarityScore": 82.5735294117647
+            },
+            {
+                "name": "BLUE TOUPE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "VIOLET PONYTAIL",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "BLUE AFRO",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "PURPLE BUNS UP",
+                "cant": 76,
+                "rarityScore": 73.88157894736842
+            },
+            {
+                "name": "ORANGE LONG HAIR",
+                "cant": 67,
+                "rarityScore": 83.80597014925372
+            },
+            {
+                "name": "PINK WAVY",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "PURPLE PONYTAIL",
+                "cant": 64,
+                "rarityScore": 87.734375
+            },
+            {
+                "name": "YELLOW LONG WAVY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "VIOLET BUNS UP",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "BLUE MOHAWK",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "PONYTAIL CROWN",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "PINK LONG WAVY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "VIOLET LONG HAIR",
+                "cant": 75,
+                "rarityScore": 74.86666666666667
+            },
+            {
+                "name": "ORANGE TOUPE",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "PINK TOUPE",
+                "cant": 77,
+                "rarityScore": 72.92207792207792
+            },
+            {
+                "name": "GREEN PONYTAIL",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "BLUE BUNS UP",
+                "cant": 58,
+                "rarityScore": 96.8103448275862
+            },
+            {
+                "name": "YELLOW BUNS UP",
+                "cant": 73,
+                "rarityScore": 76.91780821917808
+            },
+            {
+                "name": "YELLOW MOHAWK",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "GREEN MOHAWK",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "VIOLET SPIKY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "PURPLE SPIKY",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "PURPLE REGULAR CUT",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "HELIHAT",
+                "cant": 8,
+                "rarityScore": 701.875
+            },
+            {
+                "name": "LONG HAIR CROWN",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "YELLOW PONYTAIL",
+                "cant": 62,
+                "rarityScore": 90.56451612903226
+            },
+            {
+                "name": "BLUE REGULAR CUT",
+                "cant": 67,
+                "rarityScore": 83.80597014925372
+            },
+            {
+                "name": "ORANGE LONG WAVY",
+                "cant": 78,
+                "rarityScore": 71.98717948717949
+            },
+            {
+                "name": "BEIGE FISHERMAN CAP",
+                "cant": 14,
+                "rarityScore": 401.07142857142856
+            },
+            {
+                "name": "YELLOW TOUPE",
+                "cant": 56,
+                "rarityScore": 100.26785714285714
+            },
+            {
+                "name": "PINK MOHAWK",
+                "cant": 65,
+                "rarityScore": 86.38461538461539
+            },
+            {
+                "name": "PINK AFRO",
+                "cant": 63,
+                "rarityScore": 89.12698412698413
+            },
+            {
+                "name": "BLUE LONG HAIR",
+                "cant": 60,
+                "rarityScore": 93.58333333333333
+            },
+            {
+                "name": "ORANGE WAVY",
+                "cant": 65,
+                "rarityScore": 86.38461538461539
+            },
+            {
+                "name": "YELLOW SPIKY",
+                "cant": 56,
+                "rarityScore": 100.26785714285714
+            },
+            {
+                "name": "YELLOW REGULAR CUT",
+                "cant": 63,
+                "rarityScore": 89.12698412698413
+            },
+            {
+                "name": "YELLOW AFRO",
+                "cant": 69,
+                "rarityScore": 81.37681159420289
+            },
+            {
+                "name": "HEAVENLY WAVY",
+                "cant": 7,
+                "rarityScore": 802.1428571428571
+            },
+            {
+                "name": "LIZZIE HAIR",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "RENE TOUPE",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "PIERCINGS",
+        "values": [
+            {
+                "name": "PEARLS",
+                "cant": 783,
+                "rarityScore": 7.171136653895274
+            },
+            {
+                "name": "NO PIERCINGS",
+                "cant": 2384,
+                "rarityScore": 2.3552852348993287
+            },
+            {
+                "name": "ONE RING",
+                "cant": 782,
+                "rarityScore": 7.180306905370844
+            },
+            {
+                "name": "ONE PEARL",
+                "cant": 784,
+                "rarityScore": 7.161989795918368
+            },
+            {
+                "name": "RINGS",
+                "cant": 782,
+                "rarityScore": 7.180306905370844
+            }
+        ]
+    },
+    {
+        "trait_type": "EYES",
+        "values": [
+            {
+                "name": "GOOL GLASSES",
+                "cant": 100,
+                "rarityScore": 56.150000000000006
+            },
+            {
+                "name": "PURPLE CHEERFUL",
+                "cant": 103,
+                "rarityScore": 54.51456310679611
+            },
+            {
+                "name": "YELLOW HAPPY",
+                "cant": 116,
+                "rarityScore": 48.4051724137931
+            },
+            {
+                "name": "PURPLE MAD",
+                "cant": 134,
+                "rarityScore": 41.90298507462686
+            },
+            {
+                "name": "ORANGE HAPPY",
+                "cant": 117,
+                "rarityScore": 47.991452991452995
+            },
+            {
+                "name": "GREEN BORED",
+                "cant": 120,
+                "rarityScore": 46.791666666666664
+            },
+            {
+                "name": "PURPLE MEDITATIVE",
+                "cant": 123,
+                "rarityScore": 45.650406504065046
+            },
+            {
+                "name": "PINK BORED",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "PURPLE HAPPY",
+                "cant": 150,
+                "rarityScore": 37.43333333333334
+            },
+            {
+                "name": "GREEN CHEERFUL",
+                "cant": 120,
+                "rarityScore": 46.791666666666664
+            },
+            {
+                "name": "YELLOW CHEERFUL",
+                "cant": 136,
+                "rarityScore": 41.28676470588235
+            },
+            {
+                "name": "YELLOW MAD",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "ORANGE MAD",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "VIOLET MEDITATIVE",
+                "cant": 146,
+                "rarityScore": 38.45890410958904
+            },
+            {
+                "name": "PINK MEDITATIVE",
+                "cant": 114,
+                "rarityScore": 49.25438596491228
+            },
+            {
+                "name": "BLUE MAD",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "ORANGE BORED",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "YELLOW BORED",
+                "cant": 127,
+                "rarityScore": 44.21259842519685
+            },
+            {
+                "name": "YELLOW DISAPPOINTED",
+                "cant": 135,
+                "rarityScore": 41.592592592592595
+            },
+            {
+                "name": "BLUE DISAPPOINTED",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "PINK MAD",
+                "cant": 123,
+                "rarityScore": 45.650406504065046
+            },
+            {
+                "name": "PURPLE DISAPPOINTED",
+                "cant": 111,
+                "rarityScore": 50.585585585585584
+            },
+            {
+                "name": "NORMAL",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "VIOLET MAD",
+                "cant": 114,
+                "rarityScore": 49.25438596491228
+            },
+            {
+                "name": "BLUE BORED",
+                "cant": 120,
+                "rarityScore": 46.791666666666664
+            },
+            {
+                "name": "BLUE CHEERFUL",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "VIOLET HAPPY",
+                "cant": 126,
+                "rarityScore": 44.56349206349206
+            },
+            {
+                "name": "GREEN MAD",
+                "cant": 113,
+                "rarityScore": 49.69026548672566
+            },
+            {
+                "name": "YELLOW MEDITATIVE",
+                "cant": 135,
+                "rarityScore": 41.592592592592595
+            },
+            {
+                "name": "PINK HAPPY",
+                "cant": 109,
+                "rarityScore": 51.51376146788991
+            },
+            {
+                "name": "GREEN HAPPY",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "GREEN DISAPPOINTED",
+                "cant": 121,
+                "rarityScore": 46.404958677685954
+            },
+            {
+                "name": "ORANGE MEDITATIVE",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "SUNGLASSES",
+                "cant": 81,
+                "rarityScore": 69.32098765432099
+            },
+            {
+                "name": "VIOLET DISAPPOINTED",
+                "cant": 88,
+                "rarityScore": 63.80681818181819
+            },
+            {
+                "name": "PINK DISAPPOINTED",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "PINK CHEERFUL",
+                "cant": 115,
+                "rarityScore": 48.82608695652174
+            },
+            {
+                "name": "ORANGE CHEERFUL",
+                "cant": 111,
+                "rarityScore": 50.585585585585584
+            },
+            {
+                "name": "CHROMATIC GLASSES",
+                "cant": 41,
+                "rarityScore": 136.95121951219514
+            },
+            {
+                "name": "BLUE MEDITATIVE",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "3D GLASSES",
+                "cant": 61,
+                "rarityScore": 92.04918032786885
+            },
+            {
+                "name": "60s GLASSES",
+                "cant": 121,
+                "rarityScore": 46.404958677685954
+            },
+            {
+                "name": "VIOLET CHEERFUL",
+                "cant": 110,
+                "rarityScore": 51.04545454545455
+            },
+            {
+                "name": "GREEN MEDITATIVE",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "BLUE HAPPY",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "VIOLET BORED",
+                "cant": 114,
+                "rarityScore": 49.25438596491228
+            },
+            {
+                "name": "ORANGE DISAPPOINTED",
+                "cant": 114,
+                "rarityScore": 49.25438596491228
+            },
+            {
+                "name": "PURPLE BORED",
+                "cant": 109,
+                "rarityScore": 51.51376146788991
+            },
+            {
+                "name": "COOL GLASSES",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "GOLDEN COOL GLASSES",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "RENE EYES",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "BODY",
+        "values": [
+            {
+                "name": "YELLOW BODY",
+                "cant": 551,
+                "rarityScore": 10.190562613430128
+            },
+            {
+                "name": "DARK BODY",
+                "cant": 550,
+                "rarityScore": 10.209090909090909
+            },
+            {
+                "name": "BROWN BODY",
+                "cant": 583,
+                "rarityScore": 9.631217838765009
+            },
+            {
+                "name": "ORANGE BODY",
+                "cant": 549,
+                "rarityScore": 10.22768670309654
+            },
+            {
+                "name": "PALE BODY",
+                "cant": 550,
+                "rarityScore": 10.209090909090909
+            },
+            {
+                "name": "GREEN BODY",
+                "cant": 539,
+                "rarityScore": 10.417439703153988
+            },
+            {
+                "name": "SPACE BODY 2",
+                "cant": 581,
+                "rarityScore": 9.664371772805508
+            },
+            {
+                "name": "BLUE BODY",
+                "cant": 532,
+                "rarityScore": 10.55451127819549
+            },
+            {
+                "name": "KULLY BODY",
+                "cant": 24,
+                "rarityScore": 233.95833333333334
+            },
+            {
+                "name": "SPACE BODY 1",
+                "cant": 550,
+                "rarityScore": 10.209090909090909
+            },
+            {
+                "name": "PINK BODY",
+                "cant": 555,
+                "rarityScore": 10.117117117117116
+            },
+            {
+                "name": "BEEBOO BODY",
+                "cant": 25,
+                "rarityScore": 224.60000000000002
+            },
+            {
+                "name": "B BOT BODY",
+                "cant": 24,
+                "rarityScore": 233.95833333333334
+            },
+            {
+                "name": "B-BOT BODY",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "NAKE KULLY",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "CLOTHES",
+        "values": [
+            {
+                "name": "GRADIENT HOODIE 2",
+                "cant": 32,
+                "rarityScore": 175.46875
+            },
+            {
+                "name": "ORANGE SWEATER",
+                "cant": 125,
+                "rarityScore": 44.92
+            },
+            {
+                "name": "BLUE STRIPE VEST",
+                "cant": 150,
+                "rarityScore": 37.43333333333334
+            },
+            {
+                "name": "YELLOW TURTLENECK",
+                "cant": 104,
+                "rarityScore": 53.99038461538462
+            },
+            {
+                "name": "BEINGS VEST",
+                "cant": 20,
+                "rarityScore": 280.75
+            },
+            {
+                "name": "WHITE HOODIE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "DOTS SHIRT",
+                "cant": 20,
+                "rarityScore": 280.75
+            },
+            {
+                "name": "ORANGE PUFFER",
+                "cant": 132,
+                "rarityScore": 42.53787878787879
+            },
+            {
+                "name": "VIOLET PUFFER",
+                "cant": 80,
+                "rarityScore": 70.1875
+            },
+            {
+                "name": "ORANGE TURTLENECK",
+                "cant": 144,
+                "rarityScore": 38.99305555555556
+            },
+            {
+                "name": "BLUE SWEATER",
+                "cant": 129,
+                "rarityScore": 43.52713178294574
+            },
+            {
+                "name": "WHITE BLAZER",
+                "cant": 31,
+                "rarityScore": 181.1290322580645
+            },
+            {
+                "name": "GREEN SWEATER",
+                "cant": 134,
+                "rarityScore": 41.90298507462686
+            },
+            {
+                "name": "GREY HOODIE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "PURPLE TURTLENECK",
+                "cant": 134,
+                "rarityScore": 41.90298507462686
+            },
+            {
+                "name": "YELLOW SHIRT",
+                "cant": 119,
+                "rarityScore": 47.18487394957984
+            },
+            {
+                "name": "FLOWER VEST 1",
+                "cant": 120,
+                "rarityScore": 46.791666666666664
+            },
+            {
+                "name": "PUFFER COMBO 4",
+                "cant": 50,
+                "rarityScore": 112.30000000000001
+            },
+            {
+                "name": "STAR SHIRT",
+                "cant": 118,
+                "rarityScore": 47.58474576271186
+            },
+            {
+                "name": "BEINGS SHIRT",
+                "cant": 20,
+                "rarityScore": 280.75
+            },
+            {
+                "name": "PUFFER COMBO 3",
+                "cant": 50,
+                "rarityScore": 112.30000000000001
+            },
+            {
+                "name": "YELLOW SWEATER",
+                "cant": 127,
+                "rarityScore": 44.21259842519685
+            },
+            {
+                "name": "PINK TURTLENECK",
+                "cant": 123,
+                "rarityScore": 45.650406504065046
+            },
+            {
+                "name": "BLUE HOODIE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "GREEN STRIPE VEST",
+                "cant": 126,
+                "rarityScore": 44.56349206349206
+            },
+            {
+                "name": "DARK GREEN HOODIE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "PINK SHIRT",
+                "cant": 143,
+                "rarityScore": 39.26573426573427
+            },
+            {
+                "name": "ASTRONAUT",
+                "cant": 12,
+                "rarityScore": 467.9166666666667
+            },
+            {
+                "name": "DOT VEST",
+                "cant": 20,
+                "rarityScore": 280.75
+            },
+            {
+                "name": "GRADIENT SWEATER 1",
+                "cant": 32,
+                "rarityScore": 175.46875
+            },
+            {
+                "name": "WHITE STRIPED SHIRT",
+                "cant": 123,
+                "rarityScore": 45.650406504065046
+            },
+            {
+                "name": "GRADIENT HOODIE 4",
+                "cant": 31,
+                "rarityScore": 181.1290322580645
+            },
+            {
+                "name": "YELLOW HOODIE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "GREEN TURTLENECK",
+                "cant": 113,
+                "rarityScore": 49.69026548672566
+            },
+            {
+                "name": "PURPLE HOODIE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "RED HOODIE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "BLUE SPACESUIT",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "WHITE SWEATER",
+                "cant": 126,
+                "rarityScore": 44.56349206349206
+            },
+            {
+                "name": "YELLOW PUFFER",
+                "cant": 80,
+                "rarityScore": 70.1875
+            },
+            {
+                "name": "WHITE PUFFER",
+                "cant": 80,
+                "rarityScore": 70.1875
+            },
+            {
+                "name": "FLOWER VEST 2",
+                "cant": 137,
+                "rarityScore": 40.98540145985402
+            },
+            {
+                "name": "GREY SWEATER",
+                "cant": 134,
+                "rarityScore": 41.90298507462686
+            },
+            {
+                "name": "ORANGE STRIPE VEST",
+                "cant": 141,
+                "rarityScore": 39.822695035460995
+            },
+            {
+                "name": "STAR SWEATER",
+                "cant": 116,
+                "rarityScore": 48.4051724137931
+            },
+            {
+                "name": "BLUE BLAZER",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "PINK SWEATER",
+                "cant": 110,
+                "rarityScore": 51.04545454545455
+            },
+            {
+                "name": "GREY PUFFER",
+                "cant": 80,
+                "rarityScore": 70.1875
+            },
+            {
+                "name": "BLUE SHIRT",
+                "cant": 123,
+                "rarityScore": 45.650406504065046
+            },
+            {
+                "name": "PUFFER COMBO 2",
+                "cant": 50,
+                "rarityScore": 112.30000000000001
+            },
+            {
+                "name": "PINK STRIPE VEST",
+                "cant": 121,
+                "rarityScore": 46.404958677685954
+            },
+            {
+                "name": "FLASH SHIRT",
+                "cant": 110,
+                "rarityScore": 51.04545454545455
+            },
+            {
+                "name": "GRADIENT HOODIE 1",
+                "cant": 31,
+                "rarityScore": 181.1290322580645
+            },
+            {
+                "name": "GRADIENT SWEATER 2",
+                "cant": 32,
+                "rarityScore": 175.46875
+            },
+            {
+                "name": "GREEN BLAZER",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "PURPLE BLAZER",
+                "cant": 70,
+                "rarityScore": 80.21428571428571
+            },
+            {
+                "name": "ORANGE SHIRT",
+                "cant": 117,
+                "rarityScore": 47.991452991452995
+            },
+            {
+                "name": "PUFFER COMBO 1",
+                "cant": 50,
+                "rarityScore": 112.30000000000001
+            },
+            {
+                "name": "VEST FLOWER 2",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "GRADIENT HOODIE 3",
+                "cant": 31,
+                "rarityScore": 181.1290322580645
+            },
+            {
+                "name": "BLUE PUFFER",
+                "cant": 80,
+                "rarityScore": 70.1875
+            },
+            {
+                "name": "PINK HOODIE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "PURPLE SWEATER",
+                "cant": 132,
+                "rarityScore": 42.53787878787879
+            },
+            {
+                "name": "VIOLET TURTLENECK",
+                "cant": 123,
+                "rarityScore": 45.650406504065046
+            },
+            {
+                "name": "STRIPED HOODIE",
+                "cant": 71,
+                "rarityScore": 79.08450704225352
+            },
+            {
+                "name": "BEING VEST",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "BLUE TURTLENECK",
+                "cant": 137,
+                "rarityScore": 40.98540145985402
+            },
+            {
+                "name": "PUFFER 1",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "SALMON SPACESUIT",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "LIGHT BLUE SPACESUIT",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "VEST FLOWER 1",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "PINK SPACESUIT",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "LIZZIE HODDIE",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "PUFFER 2",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "TEAL SPACESUIT",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "RENE CLOTH",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "MOUTH",
+        "values": [
+            {
+                "name": "PURPLE LOL MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "ORANGE SMILE MOUSTACHE",
+                "cant": 74,
+                "rarityScore": 75.87837837837839
+            },
+            {
+                "name": "GREEN SMILE MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "ORANGE MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "STRAW",
+                "cant": 370,
+                "rarityScore": 15.175675675675675
+            },
+            {
+                "name": "ORANGE BEARD",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "PURPLE BEARD",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "VIOLET MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "CHOPPER MOUSTACHE",
+                "cant": 69,
+                "rarityScore": 81.37681159420289
+            },
+            {
+                "name": "ORANGE LOL MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "HAPPY",
+                "cant": 423,
+                "rarityScore": 13.274231678486997
+            },
+            {
+                "name": "YELLOW BEARD",
+                "cant": 61,
+                "rarityScore": 92.04918032786885
+            },
+            {
+                "name": "YELLOW LOL MOUSTACHE",
+                "cant": 64,
+                "rarityScore": 87.734375
+            },
+            {
+                "name": "EVIL LAUGH",
+                "cant": 436,
+                "rarityScore": 12.878440366972477
+            },
+            {
+                "name": "BLUE MOUSTACHE",
+                "cant": 74,
+                "rarityScore": 75.87837837837839
+            },
+            {
+                "name": "BIG SMILE",
+                "cant": 437,
+                "rarityScore": 12.848970251716247
+            },
+            {
+                "name": "PURPLE MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "GREEN LOL MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "VIOLET LOL MOUSTACHE",
+                "cant": 64,
+                "rarityScore": 87.734375
+            },
+            {
+                "name": "VIOLET BEARD",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "SERIOUS",
+                "cant": 438,
+                "rarityScore": 12.819634703196348
+            },
+            {
+                "name": "PINK SMILE MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "THICK LIPS SAD",
+                "cant": 92,
+                "rarityScore": 61.03260869565218
+            },
+            {
+                "name": "MAD",
+                "cant": 414,
+                "rarityScore": 13.562801932367151
+            },
+            {
+                "name": "YELLOW SMILE MOUSTACHE",
+                "cant": 61,
+                "rarityScore": 92.04918032786885
+            },
+            {
+                "name": "VIOLET SMILE MOUSTACHE",
+                "cant": 74,
+                "rarityScore": 75.87837837837839
+            },
+            {
+                "name": "PURPLE SMILE MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "THICK LIPS HAPPY",
+                "cant": 92,
+                "rarityScore": 61.03260869565218
+            },
+            {
+                "name": "PINK MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "PINK BEARD",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "PINK LOL MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "BLUE SMILE MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "GREEN MOUSTACHE",
+                "cant": 74,
+                "rarityScore": 75.87837837837839
+            },
+            {
+                "name": "GREEN BEARD",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "SURPRISED",
+                "cant": 400,
+                "rarityScore": 14.037500000000001
+            },
+            {
+                "name": "WIDE SMILE",
+                "cant": 393,
+                "rarityScore": 14.287531806615775
+            },
+            {
+                "name": "BLUE BEARD",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "YELLOW MOUSTACHE",
+                "cant": 61,
+                "rarityScore": 92.04918032786885
+            },
+            {
+                "name": "BLUE LOL MOUSTACHE",
+                "cant": 72,
+                "rarityScore": 77.98611111111111
+            },
+            {
+                "name": "RENE MOUSTACHE",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "FACE",
+        "values": [
+            {
+                "name": "HAPPY KULLY",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "ANGRY KULLY",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "MAD KULLY",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "CHEERFUL BEEBOO",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "LOVE B BOT",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "CHEERFUL B BOT",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "BORED KULLY",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "LOVE B-BOT",
+                "cant": 1,
+                "rarityScore": 5615
+            },
+            {
+                "name": "LOVE BEEBOO",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "MAD BEEBOO",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "LAUGHING KULLY",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "BIG SMILE B BOT",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "CONFUSED B BOT",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "SURPRISED B BOT",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "HAPPY BEEBOO",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "NORMAL KULLY",
+                "cant": 4,
+                "rarityScore": 1403.75
+            },
+            {
+                "name": "SMILING BEEBOO",
+                "cant": 5,
+                "rarityScore": 1123
+            },
+            {
+                "name": "HAPPY B BOT",
+                "cant": 4,
+                "rarityScore": 1403.75
+            }
+        ]
+    },
+    {
+        "trait_type": "SUIT",
+        "values": [
+            {
+                "name": "WHITE LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "BLUE LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "VIOLET LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "FLAMA LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "RED LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "PURPLE LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "GREEN LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "ORANGE LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "YELLOW LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "PAINTED LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "PINK LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "RAINBOW LLAMA",
+                "cant": 2,
+                "rarityScore": 2807.5
+            },
+            {
+                "name": "GOLDEN LLAMA",
+                "cant": 1,
+                "rarityScore": 5615
+            }
+        ]
+    },
+    {
+        "trait_type": "BACKPACK",
+        "values": [
+            {
+                "name": "RAINBOWNIZATOR",
+                "cant": 2,
+                "rarityScore": 2807.5
+            }
+        ]
+    }
+]
