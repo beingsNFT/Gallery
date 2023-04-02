@@ -128,12 +128,14 @@ const Gallery = () => {
   const accordionState = (index) => {
     setAccordion(index);
 
-    if (accordion == index) {
-      setAccordionOpen(false);
-      setAccordion(null);
-    } else {
-      setAccordionOpen(true);
-    }
+    // if (accordion == index) {
+    //   setAccordionOpen(false);
+    //   setAccordion(null);
+    // } else {
+    //   setAccordionOpen(true);
+    // }
+
+    setAccordionOpen(!accordionOpen)
   };
 
   useEffect(() => {
@@ -185,6 +187,9 @@ const Gallery = () => {
 
       <div className="container mx-auto px-4 md:p-auto ">
         <Menu background={true} />
+
+        {/* FOR MOBILE */}
+
         <div className="flex w-full  md:hidden justify-between">
           <button
             onClick={HandleSwithRarity}
@@ -205,6 +210,8 @@ const Gallery = () => {
             <img className="w-6" src={baseIconsUri + "filter.svg"} />
           </button>
         </div>
+
+        {/* FOR DESKTOP */}
 
         <div className="flex mx-auto">
           <div className={`md:w-2/6 hidden  md:block  `}>
@@ -483,7 +490,7 @@ const Gallery = () => {
                                   <div className="flex-shrink-0 h-10 w-10">
                                     <img
                                       className="  rounded-md"
-                                      src={`${urlBase}${item.edition}.png`}
+                                      src={item.image}
                                       alt={item.edition}
                                     />
                                   </div>
@@ -532,7 +539,7 @@ const Gallery = () => {
                               height={300}
                               className="rounded-lg"
                               placeholder="assets/gallery/images/notRevealed.gif"
-                              src={`${urlBase}${item.edition}.png`}
+                              src={item.image}
                               error="assets/gallery/images/errorLoadedNFT.png"
                               alt="being"
                             />
@@ -551,10 +558,7 @@ const Gallery = () => {
           <div className="grid grid-cols-1 md:grid-flow-col auto-cols-max gap-4 overflow-auto">
             <div className="flex flex-col justify-between">
               <div>
-                <img
-                  src={`${urlBase}${tokenSelected.edition}.png`}
-                  className="w-96 rounded-lg"
-                />
+                <img src={tokenSelected.image} className="w-96 rounded-lg" />
                 <h2 className="text-primary font-bold text-2xl mt-2">
                   Beings No. {tokenSelected.edition}
                 </h2>
