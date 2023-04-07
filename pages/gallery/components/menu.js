@@ -11,13 +11,13 @@ import { Slide } from "react-reveal";
 const Menu = ({ background }) => {
   const [menu, setMenu] = useState(false);
   return (
-    <div className="sticky top-0 z-20 ">
+    <div className="w-[100vw] left-0 top-0 z-20 ">
       <div
-        className={`block  ${
+        className={`block w-full px-[20px]  ${
           background ? "bg-primary" : "bg-transparent"
         }  py-1`}
       >
-        <div className="py-5 flex justify-between">
+        <div className="py-5 flex justify-between w-full">
           <Link href="/">
             <a>
               <img
@@ -27,7 +27,6 @@ const Menu = ({ background }) => {
             </a>
           </Link>
 
-        
           <div className="  flex  justify-end ">
             <div className="flex justify-items-center divider py-5 px-6 rounded-full items-center">
               <a

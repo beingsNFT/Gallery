@@ -135,7 +135,7 @@ const Gallery = () => {
     //   setAccordionOpen(true);
     // }
 
-    setAccordionOpen(!accordionOpen)
+    setAccordionOpen(!accordionOpen);
   };
 
   useEffect(() => {
@@ -185,30 +185,34 @@ const Gallery = () => {
         <title>Beings - Gallery</title>
       </Head>
 
-      <div className="container mx-auto px-4 md:p-auto ">
-        <Menu background={true} />
+      <div className="container mx-auto pt-[120px] px-4 md:p-auto ">
+        <div
+          className="fixed top-0 left-0 z-30
+        "
+        >
+          <Menu background={true} />
+          {/* FOR MOBILE */}
 
-        {/* FOR MOBILE */}
+          <div className="flex w-full md:hidden justify-between bg-primary px-[20px]">
+            <button
+              onClick={HandleSwithRarity}
+              className="flex rounded-lg justify-between  py-2 items-center"
+            >
+              <span className="items-center flex font-bold text-md text-white ">
+                <img className="mr-1 w-12" src={baseIconsUri + "rarity.png"} />
+              </span>
+              <Switch
+                height={20}
+                width={48}
+                onColor="#39ff71"
+                checked={rarityState}
+              />
+            </button>
 
-        <div className="flex w-full  md:hidden justify-between">
-          <button
-            onClick={HandleSwithRarity}
-            className="flex rounded-lg justify-between  py-2 items-center"
-          >
-            <span className="items-center flex font-bold text-md text-white ">
-              <img className="mr-1 w-12" src={baseIconsUri + "rarity.png"} />
-            </span>
-            <Switch
-              height={20}
-              width={48}
-              onColor="#39ff71"
-              checked={rarityState}
-            />
-          </button>
-
-          <button onClick={HandlerOpenFilters}>
-            <img className="w-6" src={baseIconsUri + "filter.svg"} />
-          </button>
+            <button onClick={HandlerOpenFilters}>
+              <img className="w-6" src={baseIconsUri + "filter.svg"} />
+            </button>
+          </div>
         </div>
 
         {/* FOR DESKTOP */}
