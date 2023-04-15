@@ -5,11 +5,12 @@ const nextConfig = {
   images: {
     domains: ["opensea.mypinata.cloud"],
   },
-  async rewrites() {
+  async redirects() {
     return [
       {
+        permanent:false,
         source: "/",
-        destination: "/Home/index.html",
+        destination: "/gallery",
       },
     ];
   },

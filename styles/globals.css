@@ -174,3 +174,22 @@ a {
 .react-switch-label:active .react-switch-button {
   width: 30px;
 }
+
+SCROLL BAR CSS
+::-webkit-scrollbar {
+  width: 8px;
+  height: 10px;
+  
+}
+::-webkit-scrollbar-button {
+  display: none;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #7877b4;
+}
+::-webkit-scrollbar-track {
+  background-color: #f0f0ff;
+  border: 1px solid black;
+  border-radius: 10px;
+}
