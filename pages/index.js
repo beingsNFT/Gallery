@@ -53,7 +53,7 @@ const Gallery = () => {
       overflow: "auto",
     },
   };
-  const baseIconsUri = "assets/gallery/icons/";
+  const baseIconsUri= "assets/gallery/icons/";
   const iconsTraits = {
     MOUTH: baseIconsUri + "mouth.png",
     EYES: baseIconsUri + "eyes.png",
