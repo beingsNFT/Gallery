@@ -1,14 +1,14 @@
 /* eslint-disable @next/next/no-img-element */
 import { useState, useEffect } from "react";
-import Switch from "../../components/global/switch";
+import Switch from "../components/global/switch";
 import Img from "react-cool-img";
 import Fade from "react-reveal/Fade";
-import OpenseaIcon from "../../components/global/icons/opensea";
+import OpenseaIcon from "../components/global/icons/opensea";
 import metadata from "./data/newMetadata.json";
 import Head from "next/head";
 
 import Menu from "./components/menu";
-import Modal from "../../components/global/modal";
+import Modal from "../components/global/modal";
 
 import traitsBase from "./data/traits.json";
 
@@ -53,7 +53,7 @@ const Gallery = () => {
       overflow: "auto",
     },
   };
-  const baseIconsUri = "assets/gallery/icons/";
+  const baseIconsUri= "assets/gallery/icons/";
   const iconsTraits = {
     MOUTH: baseIconsUri + "mouth.png",
     EYES: baseIconsUri + "eyes.png",

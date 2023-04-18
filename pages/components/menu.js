@@ -2,9 +2,9 @@
 /* eslint-disable @next/next/no-img-element */
 import { useState } from "react";
 import Link from "next/link";
-import DiscordIcon from "../../../components/global/icons/discord";
-import TwitterIcon from "../../../components/global/icons/twitter";
-import OpenseaIcon from "../../../components/global/icons/opensea";
+import DiscordIcon from "../../components/global/icons/discord";
+import TwitterIcon from "../../components/global/icons/twitter";
+import OpenseaIcon from "../../components/global/icons/opensea";
 
 import { Slide } from "react-reveal";
 
